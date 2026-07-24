@@ -1,7 +1,8 @@
 {
   "index": "Deepseek",
-  "another": "Claude fable 5 medium",
+  "another": "Another page",
   "advanced": "Advanced (A Folder)",
+  "codereview": "Claude fable 5 medium"
   "about": {
     "title": "About",
     "type": "page"
