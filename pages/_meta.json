@@ -1,6 +1,7 @@
 {
   "index": "Deepseek",
   "codereview": "Claude fable 5 medium",
+  "comparison": "CodeReviewNEW-by-AKG-compare",
   "another": "Another page",
   "advanced": "Advanced (A Folder)",
     "about": {
